@@ -1,2 +1,4 @@
 Test of my web project, which includes my own test cases(which is shown on the file Test Case Sheet_firebase.xlsx)
 as well as the automated performance test in Monkey Test(which is shown on MonkeyTest.png).
+According to the auto test results, the websites work well generally, one tiny problem is that there lacks one H1 heading
+one the image div. 
